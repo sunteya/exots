@@ -17,5 +17,6 @@ module Exots
 
     Node = new('node')
     Bun = new('bun')
+    Python = new('python3')
   end
 end

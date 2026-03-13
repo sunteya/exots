@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    exots (0.1.0)
+    exots (0.2.0)
       json
 
 GEM
